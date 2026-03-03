@@ -1,0 +1,39 @@
+# --- Python İlgili Dosyalar ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# --- ROS 2 İlgili Dosyalar ---
+# build, install ve log klasörleri asla yüklenmez
+build/
+install/
+log/
+
+# --- Görüntü İşleme ve YOLO (Büyük Dosyalar) ---
+# .pt ve .pth uzantılı modeller çok yer kaplar (best_v9.pt gibi)
+*.pt
+*.pth
+# Videolar (asfalt_kare.mp4 gibi) repoyu ağırlaştırır
+*.mp4
+*.avi
+*.mkv
+# Veri setleri
+datasets/
+
+# --- İşletim Sistemi ve IDE Dosyaları ---
+# Ubuntu/Windows dual boot ve VS Code kullanımı için
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.project
+.pydevproject
+
+# --- PX4 ve Simülasyon ---
+# Derleme sırasında oluşan geçici dosyalar
+build_px4_*
+.gz/
