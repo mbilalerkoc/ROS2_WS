@@ -1,0 +1,7 @@
+[console_scripts]
+dron_merkezi = altay_kontrol.dron_merkezi:main
+ilk_node = altay_kontrol.ilk_node:main
+kamera_node = altay_kontrol.kamera_node:main
+karar_node = altay_kontrol.karar_node:main
+yer_istasyonu = altay_kontrol.yer_istasyonu:main
+

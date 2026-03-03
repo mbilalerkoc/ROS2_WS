@@ -1,0 +1,6 @@
+source;share/altay_kontrol/hook/pythonpath.ps1
+source;share/altay_kontrol/hook/pythonpath.dsv
+source;share/altay_kontrol/hook/pythonpath.sh
+source;share/altay_kontrol/hook/ament_prefix_path.ps1
+source;share/altay_kontrol/hook/ament_prefix_path.dsv
+source;share/altay_kontrol/hook/ament_prefix_path.sh

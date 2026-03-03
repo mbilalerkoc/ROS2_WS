@@ -1,0 +1,25 @@
+[0.695s] Invoking command in '/home/muhammetbilal/ros2_ws/src/altay_kontrol': PYTHONPATH=/home/muhammetbilal/ros2_ws/build/altay_kontrol/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/altay_kontrol build --build-base /home/muhammetbilal/ros2_ws/build/altay_kontrol/build install --record /home/muhammetbilal/ros2_ws/build/altay_kontrol/install.log --single-version-externally-managed install_data
+[0.963s] running egg_info
+[0.963s] writing ../../build/altay_kontrol/altay_kontrol.egg-info/PKG-INFO
+[0.964s] writing dependency_links to ../../build/altay_kontrol/altay_kontrol.egg-info/dependency_links.txt
+[0.964s] writing entry points to ../../build/altay_kontrol/altay_kontrol.egg-info/entry_points.txt
+[0.964s] writing requirements to ../../build/altay_kontrol/altay_kontrol.egg-info/requires.txt
+[0.964s] writing top-level names to ../../build/altay_kontrol/altay_kontrol.egg-info/top_level.txt
+[0.966s] reading manifest file '../../build/altay_kontrol/altay_kontrol.egg-info/SOURCES.txt'
+[0.967s] writing manifest file '../../build/altay_kontrol/altay_kontrol.egg-info/SOURCES.txt'
+[0.967s] running build
+[0.967s] running build_py
+[0.968s] running install
+[0.968s] running install_lib
+[0.970s] running install_data
+[0.970s] running install_egg_info
+[0.973s] removing '/home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/python3.10/site-packages/altay_kontrol-0.0.0-py3.10.egg-info' (and everything under it)
+[0.973s] Copying ../../build/altay_kontrol/altay_kontrol.egg-info to /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/python3.10/site-packages/altay_kontrol-0.0.0-py3.10.egg-info
+[0.975s] running install_scripts
+[0.998s] Installing dron_merkezi script to /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/altay_kontrol
+[0.999s] Installing ilk_node script to /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/altay_kontrol
+[0.999s] Installing kamera_node script to /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/altay_kontrol
+[0.999s] Installing karar_node script to /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/altay_kontrol
+[0.999s] Installing yer_istasyonu script to /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/altay_kontrol
+[0.999s] writing list of installed files to '/home/muhammetbilal/ros2_ws/build/altay_kontrol/install.log'
+[1.036s] Invoked command in '/home/muhammetbilal/ros2_ws/src/altay_kontrol' returned '0': PYTHONPATH=/home/muhammetbilal/ros2_ws/build/altay_kontrol/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/altay_kontrol build --build-base /home/muhammetbilal/ros2_ws/build/altay_kontrol/build install --record /home/muhammetbilal/ros2_ws/build/altay_kontrol/install.log --single-version-externally-managed install_data

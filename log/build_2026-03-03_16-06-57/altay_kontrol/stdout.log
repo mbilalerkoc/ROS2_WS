@@ -1,0 +1,29 @@
+running egg_info
+writing ../../build/altay_kontrol/altay_kontrol.egg-info/PKG-INFO
+writing dependency_links to ../../build/altay_kontrol/altay_kontrol.egg-info/dependency_links.txt
+writing entry points to ../../build/altay_kontrol/altay_kontrol.egg-info/entry_points.txt
+writing requirements to ../../build/altay_kontrol/altay_kontrol.egg-info/requires.txt
+writing top-level names to ../../build/altay_kontrol/altay_kontrol.egg-info/top_level.txt
+reading manifest file '../../build/altay_kontrol/altay_kontrol.egg-info/SOURCES.txt'
+writing manifest file '../../build/altay_kontrol/altay_kontrol.egg-info/SOURCES.txt'
+running build
+running build_py
+copying altay_kontrol/karar_node.py -> /home/muhammetbilal/ros2_ws/build/altay_kontrol/build/lib/altay_kontrol
+copying altay_kontrol/kamera_node.py -> /home/muhammetbilal/ros2_ws/build/altay_kontrol/build/lib/altay_kontrol
+running install
+running install_lib
+copying /home/muhammetbilal/ros2_ws/build/altay_kontrol/build/lib/altay_kontrol/karar_node.py -> /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/python3.10/site-packages/altay_kontrol
+copying /home/muhammetbilal/ros2_ws/build/altay_kontrol/build/lib/altay_kontrol/kamera_node.py -> /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/python3.10/site-packages/altay_kontrol
+byte-compiling /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/python3.10/site-packages/altay_kontrol/karar_node.py to karar_node.cpython-310.pyc
+byte-compiling /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/python3.10/site-packages/altay_kontrol/kamera_node.py to kamera_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/python3.10/site-packages/altay_kontrol-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/altay_kontrol/altay_kontrol.egg-info to /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/python3.10/site-packages/altay_kontrol-0.0.0-py3.10.egg-info
+running install_scripts
+Installing dron_merkezi script to /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/altay_kontrol
+Installing ilk_node script to /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/altay_kontrol
+Installing kamera_node script to /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/altay_kontrol
+Installing karar_node script to /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/altay_kontrol
+Installing yer_istasyonu script to /home/muhammetbilal/ros2_ws/install/altay_kontrol/lib/altay_kontrol
+writing list of installed files to '/home/muhammetbilal/ros2_ws/build/altay_kontrol/install.log'
